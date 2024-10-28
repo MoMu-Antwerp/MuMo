@@ -8,6 +8,7 @@ In this repository you'll find all the up-to-date documentation on how to deploy
 # Nodes
 
 ## Current version (Version 2)
-[link to pcb reposirory](https://github.com/Strooom/MuMo-V2-Node-PCB)
+[hardware repository](https://github.com/Strooom/MuMo-V2-Node-PCB)
+[software repository](https://github.com/Strooom/MuMo-v2-Node-SW)
 
 
