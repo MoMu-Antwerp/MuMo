@@ -13,7 +13,7 @@ The pipeline used to create these LDES can be found on [github](https://github.c
 # Dashboard
 
 A dashboard component was built to visualize the stream of observations.
-There are 2 version of the dashboard, the old one that didn't take solic into account and on that does.
+There are 2 versions of the dashboard, the old one that didn't take solid into account and one that does.
 
 Link to [github](https://github.com/ajuvercr/mumo-graphs).
 
