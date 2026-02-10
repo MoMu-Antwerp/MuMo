@@ -21,6 +21,9 @@ The V3 logger features an e-paper screen for on-device data visualization. The h
 - **[Main PCB](https://github.com/Strooom/LoRa-V3-PCB)** - The core LoRa-enabled board
 - **[Sensor PCB](https://github.com/Strooom/LoRa-V3-Sensor-PCB)** - A small board with sensors that plugs into the main PCB. This modular design enables easy replacement with calibrated sensors or upgrades to newer sensor models.
 
+![MuMo V3 Dataloggers](assets/MuMo_Node-V3.jpeg)
+*MuMo V3 standard dataloggers with e-paper displays showing temperature, humidity, and light measurements*
+
 ### Version 3 Mini
 A compact version of the datalogger without the e-paper screen, designed for space-constrained installations.
 - **[Hardware repository](https://github.com/Strooom/LoRa-V3-Mini-PCB)**
